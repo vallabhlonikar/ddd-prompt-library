@@ -8,12 +8,12 @@ This repository provides a structured set of prompts to guide teams through the 
 
 ## 📚 Prompt Categories
 
-1. [URL not displayed]
+1. [event-storming]
    - Identify bounded contexts and their responsibilities
    - Map core domain areas
    - Document key business processes
 
-2. [Event-Storming]
+2. [domain-model
    - Define events, commands, and queries
    - Identify aggregates, entities, and value objects
    - Document domain relationships
