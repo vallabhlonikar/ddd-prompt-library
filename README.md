@@ -1,21 +1,92 @@
 # DDD Prompt Library
 
-A collection of prompt templates and examples for Domain-Driven Design (DDD) practices, including event storming, domain modeling, ER diagrams, context mapping, and repository structure. This library is designed to help teams and individuals apply DDD concepts efficiently using structured prompts and real-world examples.
+A comprehensive collection of prompts for Domain-Driven Design analysis and implementation.
 
-## Table of Contents
-- [01-event-storming](./01-event-storming/README.md)
-- [02-domain-model](./02-domain-model/README.md)
-- [03-er-diagram](./03-er-diagram/README.md)
-- [04-context-mapping](./04-context-mapping/README.md)
-- [05-repository-structure](./05-repository-structure/README.md)
+## 🎯 Purpose
 
-## Usage
-1. Browse the topic directories for DDD practices.
-2. Review the prompt templates and adapt them to your needs.
-3. Explore the examples for inspiration and guidance.
+This repository provides a structured set of prompts to guide teams through the process of Domain-Driven Design analysis and implementation. Each prompt is designed to help extract specific aspects of domain knowledge and translate it into actionable technical artifacts.
 
-## Contributing
-Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+## 📚 Prompt Categories
 
-## License
-See [LICENSE](LICENSE) for details.
+1. [event-storming]
+   - Identify bounded contexts and their responsibilities
+   - Map core domain areas
+   - Document key business processes
+
+2. [domain-model]
+   - Define events, commands, and queries
+   - Identify aggregates, entities, and value objects
+   - Document domain relationships
+
+3. [er-diagram]
+   - Create entity relationship diagrams
+   - Define attribute relationships
+   - Map aggregate boundaries
+
+4. [context-mapping]
+   - Define context relationships
+   - Document integration patterns
+   - Visualize system architecture
+
+5. [repository-structure]
+   - Define code organization
+   - Set up project structure
+   - Establish development standards
+
+## 🚀 Getting Started
+
+1. Choose the appropriate prompt category for your current phase
+2. Review the prompt template and examples
+3. Customize the prompt for your specific domain
+4. Document the outputs in your project
+
+## 📋 How to Use
+
+Each prompt category contains:
+- A README explaining the purpose and usage
+- A prompt template (.md file)
+- Example implementations
+- Best practices and considerations
+
+## 🌟 Best Practices
+
+1. Use prompts sequentially for complete analysis
+2. Customize prompts for your specific context
+3. Document assumptions and decisions
+4. Iterate based on feedback
+5. Maintain consistency across outputs
+
+## 📝 Examples
+
+Each section includes practical examples from common domains:
+- Insurance
+- Banking
+- E-commerce
+- Healthcare
+
+## 🤝 Contributing
+
+We welcome contributions!  
+
+1. Fork the repository
+2. Create your feature branch
+3. Commit your changes
+4. Push to the branch
+5. Create a Pull Request
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## ✨ Acknowledgments
+
+- DDD Community
+- Enterprise Architecture Patterns
+- Clean Architecture Principles
+
+## 📮 Contact
+
+For questions and support, please open an issue in the repository.
+
+---
+Made with ❤️ for the DDD Community
